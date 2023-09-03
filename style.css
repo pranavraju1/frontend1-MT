@@ -238,10 +238,10 @@ nav{
 .pg2-card1{
   width: 498px;
   height: 563px;
-  border: 2px solid purple;
   background-color: white;
   border-radius: 9px;
   margin-right: 21px;
+  border: 1px solid #E2E2E2;
 }
 .pg2-card1-p1{
   padding-top: 10px;
@@ -270,6 +270,8 @@ nav{
   background: var(--subtle-orange, #FFEED8);
   color: #965400;
   text-align: center;
+  margin-right: 10px;
+  border-radius: 9px;
 
 }
 .pg2-card1-p13{
@@ -394,6 +396,7 @@ nav{
 }
 .p4-text{
   margin-top: 20px;
+  color: #676767;
 }
 .p4p3{
   margin-left: 107px;
