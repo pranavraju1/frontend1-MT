@@ -40,7 +40,7 @@ nav{
   margin-right: 20px ;
 }
 .login{
-  color: skyblue;
+  color: #2F80ED;
   padding-left: 36px;
   padding-right: 36px;
   height: 100%;
@@ -113,7 +113,7 @@ nav{
   margin-left: 10.21px;
 }
 .p1t3-text1{
-  font-family: ABeeZee;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;
@@ -141,10 +141,49 @@ nav{
   margin-left: 950px;
   height: 496px;
   width: 415px;
-  border: 3px solid orange;
+  /* border: 3px solid orange; */
   position: absolute;
   border-radius: 20px;
   background: #FFF;
+  padding: 28px 24px 32px 24px;
+  gap: 15px;
+  box-shadow: 0px 0px 20px #2F80ED;
+  /* background-image: url(resources/Star\ 2\ \(1\).svg); */
+}
+
+
+.pg1-card-p1{
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 150%; /* 48px */
+  letter-spacing: -0.48px;
+  text-align: center;
+}
+.pg1-card-p2{
+  color: #818D9D;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%;
+}
+.pg1-card-p3{
+  display: flex;
+  width: 367px;
+  padding: 14px 6px 14px 16px;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+  border-radius: 8px;
+  background: var(--New, linear-gradient(277deg, #992FED 0%, #2F80ED 100%));
+  font-family: ABeeZee;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 150%;
+  color: white;
 }
 /* page1 end */
 
@@ -154,7 +193,7 @@ nav{
 }
 .pg2t1{
   height: 25px;
-  font-family: 'ABeeZee', sans-serif;;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 20px;
   font-style: italic;
   font-weight: 400;
@@ -171,7 +210,7 @@ nav{
 .pg2t2{
   color: #2F80ED;
   text-align: center;
-  font-family: ABeeZee;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
@@ -194,7 +233,7 @@ nav{
   padding-bottom: 10px;
 }
 .pg2-card1-p1-t1{
-  font-family: ABeeZee;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 26px;
   font-style: italic;
   font-weight: 400;
@@ -245,7 +284,7 @@ nav{
 .pg2-card1-p3>div>button{
   width: 203px;
   padding: 14px 6px;
-  font-family: ABeeZee;
+  font-family: 'ABeeZee', sans-serif;
   font-size: 18px;
   font-style: italic;
   font-weight: 400;
