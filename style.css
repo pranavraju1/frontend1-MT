@@ -189,6 +189,19 @@ nav{
   line-height: 150%;
   color: white;
 }
+.made-by{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  border-radius: 23px;
+  background: #FFF;
+  box-shadow: 0px 2px 40px 0px rgba(0, 0, 0, 0.12);
+  display: inline-flex;
+  padding: 10px 20px;
+  align-items: flex-start;
+  gap: 10px;
+}
 /* page1 end */
 
 /* page 2 start */
