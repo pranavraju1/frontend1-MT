@@ -8,10 +8,15 @@
   background: white;
 }
 nav{
+  width: 1440px !important;
   padding-top:15px ;
   padding-bottom: 15px;
   width: 100%;
   height: 77px;
+  background-color: white;
+  position: sticky;
+  top: 0;
+  z-index: 2;
   /* border: 2px solid red; */
 }
 .nav-logo{
@@ -190,6 +195,16 @@ nav{
 /* page 2 start */
 .page2{
   background: #ECF8FF
+}
+.extra1{
+  display: inline-flex;
+  padding: 6px 15px;
+  align-items: flex-start;
+  gap: 18px;
+  border-radius: 7px;
+  background-color: #2F80ED;
+  color: white;
+  
 }
 .pg2t1{
   height: 25px;
